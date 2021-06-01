@@ -1151,10 +1151,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@codeleaf-sdk/core@^2.1.4":
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/@codeleaf-sdk/core/-/core-2.1.4.tgz#9044272b858a5fc22e9f21293bf1fe51d178ef35"
-  integrity sha512-DIARTWP3cbvryM5QuoZvHGJ/SZaffBXrBuhmGTCy/4wy060lTwwxXYJhlhqoDnueEMkHsOIbYHWPTIjmHR9wqw==
+"@codeleaf-sdk/core@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@codeleaf-sdk/core/-/core-2.1.5.tgz#d80bb21315bd37f129b6c85d832945d8592842fd"
+  integrity sha512-uZ+E/3vKf0pWakB1FhNKf+87/blsEOy8w2Uhsspo1nZrCgKInoqyJxGJm0u0RuDSY5pzoe/Q5xxfrO8aDNVEkQ==
 
 "@csstools/convert-colors@^1.4.0":
   version "1.4.0"
