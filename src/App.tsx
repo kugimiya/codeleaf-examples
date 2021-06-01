@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { memo } from 'react';
+import UsersPage from './pages/users/UsersPage';
 
 const App = () => {
-  return <p>hello, world</p>
+  return (
+    <UsersPage />
+  );
 }
 
-export default App;
+export default memo(App);
